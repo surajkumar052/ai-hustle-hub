@@ -37,3 +37,6 @@ AI Hustle Hub is a secure, scalable web + mobile platform where users can:
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/ai-hustle-hub.git
+npm install
+GEMINI_API_KEY=your_api_key_here
+npm run dev
